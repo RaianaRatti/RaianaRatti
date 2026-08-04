@@ -1,52 +1,48 @@
-# Hi, I'm Raiana Ratti
+# Hey, I'm Raiana 👋
 
-CS and EE double major, Math minor at the University of Michigan. Interested in machine learning, computer vision, and systems-oriented engineering.
+CS + EE double major, Math minor @ University of Michigan 🎓
+Currently teaching computers to see, hear, and occasionally behave 🤖
 
-- GPA: 4.0/4.0
-- Location: Ann Arbor, Michigan
-- Email: raianaratti@gmail.com
-- LinkedIn: [linkedin.com/in/raiana-ratti](https://www.linkedin.com/in/raiana-ratti)
+- 📍 Ann Arbor, Michigan
+- 📧 raianaratti@gmail.com
+- 💼 [linkedin.com/in/raiana-ratti](https://www.linkedin.com/in/raiana-ratti)
+- 🧮 GPA: 4.0/4.0 (yes, I tutor Calc III, no, that's not a coincidence)
 
-## Currently
+## 🛠️ What I'm up to right now
 
-- **Navigator, Dakdan International Sports Media Inc.** Building a multi-tenant AI outbound calling platform with Node.js, TypeScript, RingCentral, Twilio, and OpenAI. Work covers queue orchestration, provider failover, webhook handling, and integrating speech-to-text, LLMs, text-to-speech, CRM sync, and calendar booking into live calls.
-- **Software Engineering Intern, FutureHouse.** Built workflow automation with Next.js and GoHighLevel APIs for email, SMS, and document dispatch. Built real-time click tracking with Next.js, Supabase, and REST APIs.
-- **Co-Lead, M-Fly Aero Design Autonomous Software Team.** Developing computer vision pipelines for object detection and image stitching used to identify payload drop-off coordinates in autonomous flight.
-- **Tutor Lead, UMich Math Learning Center.** Leading weekly Calculus III review sessions and tutoring Calculus I and III.
+- 📞 **Navigator @ Dakdan International Sports Media** — building an AI outbound calling platform. I make robots talk on the phone so you don't have to.
+- 🏠 **SWE Intern @ FutureHouse** — wiring up Next.js workflows and real-time click tracking. Basically a plumber, but for data.
+- ✈️ **Co-Lead, M-Fly Autonomous Software** — writing computer vision for drones. If it flies and doesn't crash, that's me. If it crashes, that's also probably me.
+- 📐 **Tutor Lead, UMich Math Learning Center** — professionally explaining what "del cross F" means to people who ask nicely.
 
-## Projects
+## 🧪 Projects (aka things I built instead of sleeping)
 
-**Four-Class Conversational Audio Classifier**
-PyTorch residual network with a causal LSTM, classifying 30ms audio frames into speech, silence, overlap, and non-vocal classes. Achieved 97.4% held-out accuracy across 7,400+ evaluation frames. Built a 128-dimensional acoustic feature pipeline over LibriSpeech and AMI, raising balanced accuracy from 75.7% to 92.5% using weighted sampling, mixup, and SpecAugment.
+**🎙️ Four-Class Conversational Audio Classifier**
+A PyTorch model that listens to 30ms slices of audio and decides if it's speech, silence, overlap, or "not a human." 97.4% accuracy — better than most humans at parties.
 
-**ClearWave: Studio-Quality Audio Denoising Engine**
-Classical DSP denoising pipeline built from first principles in Python and SciPy. Implements STFT/iSTFT reconstruction (MSE below 1e-6), spectral subtraction, Wiener filtering, comb notch hum removal, and autoregressive click interpolation, with a VAD-gated adaptive noise estimator and a YAML-configurable CLI.
+**🔇 ClearWave — Audio Denoising Engine**
+Built a full DSP pipeline from scratch to make noisy audio sound studio-quality. STFT, Wiener filtering, spectral subtraction — basically a spa day for sound waves.
 
-**F2 Secure: Facial Recognition Access System**
-End-to-end facial recognition access system supporting 100+ labeled identities with inference latency under 300ms. Built a detection, embedding, and identity matching pipeline with MTCNN and OpenCV, reaching around 92% recognition accuracy.
+**🕵️ F2 Secure — Facial Recognition Access System**
+Real-time facial recognition with sub-300ms latency and ~92% accuracy. Started as a summer project, ended as "wait, this actually works?"
 
-## Skills
+## 💻 Skills
 
-**Languages:** Python, C++, TypeScript, JavaScript, SQL, Bash, MATLAB, HTML, CSS
+`Python` `C++` `TypeScript` `JavaScript` `SQL` `MATLAB`
 
-**AI and Machine Learning:** PyTorch, scikit-learn, NumPy, Pandas, OpenCV, MTCNN, CNNs, LSTMs, residual networks, object detection, RANSAC, facial recognition, embeddings, Hugging Face, OpenAI APIs, LLM voice agents
+**ML/AI:** PyTorch, scikit-learn, OpenCV, CNNs, LSTMs, RANSAC, Hugging Face, OpenAI APIs
+**Audio/DSP:** librosa, SciPy, STFT, MFCCs, Wiener filtering, VAD
+**Web:** Node.js, Next.js, React, Tailwind, REST APIs, WebSockets, Supabase
+**Data:** PostgreSQL, MongoDB, ETL
+**Tools:** Git, Docker, CI/CD, Linux (I promise I know more than `sudo rm -rf`)
 
-**Audio and Signal Processing:** librosa, SciPy, STFT, MFCCs, spectral subtraction, Wiener filtering, IIR/notch filter design, voice activity detection, speaker diarization, adaptive noise estimation, spectrogram analysis
+## 🏆 Awards
 
-**Software Development:** Node.js, Next.js, React, Express, Tailwind CSS, REST APIs, WebSockets, webhooks, Server Actions, Twilio, RingCentral, GoHighLevel, Supabase, speech-to-text and text-to-speech integration, CRM synchronization
+- 🥇 William J. Branstrom Freshman Prize (top 5% of the freshman class, GPA edition)
+- ➗ Aryabhatta 2024 Math Challenge
+- 📋 Dean's List, 2025 to 2026
+- 📚 AP Scholar with Honors
 
-**Databases:** PostgreSQL, Supabase, MongoDB, schema design, SQL optimization, ETL
+## 📫 Let's talk
 
-**DevOps and Tools:** Git, GitHub Actions, CI/CD, Docker, Linux, Postman, Jupyter, matplotlib, unit testing, code review
-
-## Awards
-
-- William J. Branstrom Freshman Prize (top 5% of UMich freshman class by GPA)
-- Aryabhatta 2024 Math Challenge
-- Dean's List, UMich College of Engineering, 2025 to 2026
-- AP Scholar Award with Honors
-
-## Contact
-
-- Email: raianaratti@gmail.com
-- LinkedIn: [linkedin.com/in/raiana-ratti](https://www.linkedin.com/in/raiana-ratti)
+Reach me at raianaratti@gmail.com or on [LinkedIn](https://www.linkedin.com/in/raiana-ratti). I respond faster than my code compiles.
